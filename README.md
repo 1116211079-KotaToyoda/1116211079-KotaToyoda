@@ -1,4 +1,11 @@
-## Hi there 👋
+## Continuous-Space Learning Environment for Cooperative AI
+
+The following is the procedure to build this environment on your computer.
+- Install Unity Hub (version 3.9.1)
+- Install Unity Editor (version 2022.3.49f1)
+- Clone this repo
+- Install Unity ML agents (Version: Release 22) from [ML-Agents Installation Documentation](https://unity-technologies.github.io/ml-agents/Installation/)
+- Use scripts/unity_env_from_jupyter.ipynb to verify installation
 
 <!--
 **1116211079-KotaToyoda/1116211079-KotaToyoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
