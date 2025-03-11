@@ -42,5 +42,11 @@ Install jupyter lab from this command.
 pip install jupyterlab
 ```
 
-open scripts folder and use `scripts/unity_env_from_jupyter.ipynb` to verify installation.
+open 'scripts' folder and type this command
+
+```bash
+jupyter lab
+```
+
+use `scripts/unity_env_from_jupyter.ipynb` to verify installation.
 
