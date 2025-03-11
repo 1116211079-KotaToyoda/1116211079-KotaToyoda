@@ -13,19 +13,19 @@ Download Unity from the [Download page](https://unity.com/download)
 
 ## 2. Install Unity Editor (version 2022.3.49f1)
 
-Download this Unity Editor from Unity Hub. If same verison is not on the 'Official Release', jump to `archive` and find the same editor. (Other versions will be available soon...)
+Download this Unity Editor from Unity Hub. If same verison is not on the `Official Release`, jump to `archive` and find the same editor. (Other versions will be available soon...)
 
 ## 3. Clone this repo
 
 Clone this repo.
-Then unzip 'unityEssential.zip'. The components are as follows.
+Then unzip `unityEssential.zip`. The components are as follows.
 
 - Assests (this folder includes game objects, the C# scripts to handle this environment, etc.)
 - Packages
 - Usersettings
 - Projectsettings
 
-From Unity Hub, press 'Add' -> 'Add pprojects from disk' and select the 'unityEssential' folder.
+From Unity Hub, press `Add` -> `Add pprojects from disk` and select the `unityEssential` folder.
 
 There will be an error due to the loss of mlagent packages but ignore those and create a project.
 
@@ -41,5 +41,5 @@ Install jupyter lab from this command.
 ```bash
 pip install jupyterlab
 
-open scripts folder and use 'scripts/unity_env_from_jupyter.ipynb' to verify installation.
+open scripts folder and use `scripts/unity_env_from_jupyter.ipynb` to verify installation.
 
